@@ -1,0 +1,59 @@
+﻿@model IEnumerable<OnlineShopmanager.Models.Customer>
+
+@{
+    ViewData["Title"] = "Customers";
+}
+
+<h1 class="text-center textcolor">Customers</h1>
+
+<p class="text-right">
+    <a asp-action="Create"> New Customer</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th class="tangerine">
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th class="tangerine">
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th class="tangerine">
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th class="tangerine">
+                @Html.DisplayNameFor(model => model.payments)
+            </th>
+            <th class="tangerine">
+                @Html.DisplayNameFor(model => model.Balance)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="textcolor">
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td class="textcolor">
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td class="textcolor">
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td class="textcolor">
+                @Html.DisplayFor(modelItem => item.payments)
+            </td>
+            <td class="textcolor">
+                @Html.DisplayFor(modelItem => item.Balance)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

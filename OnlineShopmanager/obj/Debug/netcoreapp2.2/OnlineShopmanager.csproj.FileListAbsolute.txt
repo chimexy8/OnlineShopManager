@@ -1,0 +1,136 @@
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.deps.json
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.runtimeconfig.json
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.runtimeconfig.dev.json
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.dll
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.pdb
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.Views.dll
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.Views.pdb
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.csprojAssemblyReference.cache
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.csproj.CoreCompileInputs.cache
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorAssemblyInfo.cache
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorAssemblyInfo.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.AssemblyInfoInputs.cache
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.AssemblyInfo.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.TagHelpers.input.cache
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.TagHelpers.output.cache
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorCoreGenerate.cache
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Delete.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Edit.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Create.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Delete.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Details.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Edit.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Create.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Delete.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Details.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Edit.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Create.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Delete.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Details.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Edit.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Create.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Delete.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Details.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorTargetAssemblyInfo.cache
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorTargetAssemblyInfo.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.Views.pdb
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.dll
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.pdb
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.csproj.CopyComplete
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\source\repos\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.deps.json
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.runtimeconfig.json
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.runtimeconfig.dev.json
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.dll
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.pdb
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.Views.dll
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\bin\Debug\netcoreapp2.2\OnlineShopmanager.Views.pdb
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.csprojAssemblyReference.cache
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.csproj.CoreCompileInputs.cache
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorAssemblyInfo.cache
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorAssemblyInfo.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.AssemblyInfoInputs.cache
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.AssemblyInfo.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.TagHelpers.input.cache
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.TagHelpers.output.cache
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorCoreGenerate.cache
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\POS\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\SaleDetails\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorTargetAssemblyInfo.cache
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.RazorTargetAssemblyInfo.cs
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.Views.pdb
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.dll
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.pdb
+C:\Users\MEXY\Documents\Visual Studio 2019\Projects\OnlineShopmanager\OnlineShopmanager\obj\Debug\netcoreapp2.2\OnlineShopmanager.csproj.CopyComplete

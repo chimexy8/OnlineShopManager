@@ -1,0 +1,104 @@
+﻿@model IEnumerable<OnlineShopmanager.Models.POS>
+
+@{
+    ViewData["Title"] = "POS";
+}
+
+@{
+    var currentDate = DateTime.Now.ToShortDateString();
+
+}
+<h1 class="text-center" >Point of Sale</h1>
+<form  asp-action="Index" >
+    <div class="row dropdownmarg textcolor">
+        <div class=" wit col-md-4">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <label class="control-label">Customers</label>
+            <select class="form-control inputcolor padding" id="selcust" asp-items="ViewBag.Customers"><option value="">--Unknown Customer--</option></select>
+
+        </div>
+
+        <div class=" wit col-md-4">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <label class="control-label">Product Categories</label>
+            <select class="form-control inputcolor padding" id="selcat" onchange="ajaxCall()" asp-items="ViewBag.CategoryID"><option value="">--Select Category--</option></select>
+
+        </div>
+        <div class=" wit col-md-4">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <label class="control-label">Products</label>
+            <select class="form-control inputcolor padding" onchange="textbox()" id="selprd"></select>
+
+        </div>
+
+    </div>
+</form>
+
+
+
+<form>
+    <div class="row textcolor" >
+      
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="wit col-md-4">
+            <label  class="control-label">Amount</label><br>
+            <p id="prdamount" class="form-control inputcolor"></p>
+        </div>
+
+        <div class="wit col-md-4">
+            <label class="control-label">Quantity</label><br>
+            <input type="text" id="quantity" class="form-control inputcolor wit" />
+        </div>
+        <div class="wit col-md-4 ">  
+            <button type="button"  onclick="possaver()"   class="btn savebatmarg form-control">Add to Cart</button>
+        </div>
+    </div>   
+   
+</form>  
+<div class="row textcolor">
+
+    <div class="wit carttotal col-md-4">
+        <label class="control-label">Cart Total</label><br>
+        <p type="text" id="carttotal" class="form-control wit inputcolor"></p>
+
+    </div>
+</div>
+
+<form class="row textcolor dropdownmarg" asp-action="ClearandRefresh">
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="wit col-md-4">
+        <label class="control-label">Amount Paid</label><br>
+        <input type="text" id="amountpaid" class="form-control inputcolor" />
+    </div>
+    <div class="wit col-md-4">
+        <label class="control-label">Date</label><br>
+        <input  disabled placeholder="@currentDate"  id="date" class="form-control inputcolor padding" />
+    </div>
+    <div class="wit col-md-4 " >
+        <button type="submit" onclick="print()" class="btn btn-outline-primary savebatmarg form-control">Print</button>
+    </div>
+</form>
+<p class="text-center cartitems textcolor">Cart Items</p>
+<table class="table" >
+    <thead>
+        <tr>
+            <th class="tangerine">
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th class="tangerine">
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th class="tangerine">
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="mytable" class="textcolor">
+
+       
+
+    </tbody>
+</table>
+

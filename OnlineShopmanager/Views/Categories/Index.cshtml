@@ -1,0 +1,35 @@
+﻿@model IEnumerable<OnlineShopmanager.Models.Category>
+
+@{
+    ViewData["Title"] = "Categories";
+}
+
+<h1 class="text-center textcolor">Product Categories</h1>
+
+<p class="text-right">
+    <a asp-action="Create">Add New Category</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th class="tangerine">
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="textcolor">
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
